@@ -1,8 +1,8 @@
 ### ✨ Value timeline, value performance.🔥
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarletks1214&layout=compact&theme=monokai&count_private=true)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=scarletks1214&show_icons=true&theme=monokai&count_private=true)
+<img height="150px" https://github-readme-stats.vercel.app/api/top-langs/?username=scarletks1214&layout=compact&theme=monokai&count_private=true)>
+<img height="150px" https://github-readme-stats.vercel.app/api?username=scarletks1214&show_icons=true&theme=monokai&count_private=true)>
+<br/>
 
 ### Hey Everyone 👋
 
