@@ -7,7 +7,7 @@
 
 ### Hey Everyone 👋
 
-Full-Stack developer well-versed in JavaScript/Typescript (React.js, Next.js, Vue.js, Angular, Node.js, Web3.js, Ethers.js, AWS), Blockchain(Ethereum, Bitcoin, Solidity, Rust).
+Full-Stack developer well-versed in JavaScript/Typescript (React.js, Next.js, Vue.js, Angular, Node.js, Web3.js, Ethers.js, AWS), Blockchain(Ethereum, Bitcoin, Solidity, Rust, DeFi, NFT marketplace, Vault, etc).
 
 I'm passionate about building Webapp and DApps using latest technologies in web and crypto industry.
 
